@@ -1,2 +1,2 @@
 # Git-Conflict
-Check 1
+Check 2
